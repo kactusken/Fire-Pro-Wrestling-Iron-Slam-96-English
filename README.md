@@ -19,6 +19,7 @@ lined up properly. Names too long for the game's font use narrow letters drawn f
 > ([how to report](#reporting-problems)). [CHANGELOG.md](CHANGELOG.md) lists what's in each release.
 
 **AI Disclosure**
+
 This project was created with the assistance of AI for reverse-engineering the game's text routines.
 
 ## Downloads
