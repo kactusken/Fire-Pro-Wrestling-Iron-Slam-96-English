@@ -18,6 +18,9 @@ lined up properly. Names too long for the game's font use narrow letters drawn f
 > Please report problems
 > ([how to report](#reporting-problems)). [CHANGELOG.md](CHANGELOG.md) lists what's in each release.
 
+**AI Disclosure**
+This project was created with the assistance of AI for reverse-engineering the game's text routines.
+
 ## Downloads
 
 Get the latest zip from the [Releases](../../releases) page. It contains 3 patches. Pick one:
